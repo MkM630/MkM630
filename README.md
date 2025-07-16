@@ -21,7 +21,7 @@
 
 - 😂 Func Fact **Bats are the only mammal that can actually fly.**
 
-- 📫 How to reach me **mainakmaitra33@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/MKM630" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://linkedin.com/in/www.linkedin.com/in/mainak-maitra-442165252" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://fb.com/Mainak Maitra" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://instagram.com/mainak.maitra.76" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://www.leetcode.com/mm3076" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
 
