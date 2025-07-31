@@ -1,85 +1,74 @@
-<h1 align="center">Hi 👋, I'm Mainak Maitra</h1>
-<h3 align="center">A passionate Frontend Developer | Backend Enthusiast</h3>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#0a66c2">Mainak Maitra</span></h1>
+<h3 align="center">💻 Frontend Developer | 🛠️ Backend Enthusiast | 🎯 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mkm630&label=Profile%20views&color=0e75b6&style=flat" alt="mkm630" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mkm630&theme=gruvbox&row=2&column=3" alt="Trophies" />
-  </a>
-</p>
-
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 
-- 🔭 I’m currently working on a [NoteBook Project](https://github.com/MkM630/Note_book)
-- 🌱 Currently learning **Next.js**, **TypeScript**
-- 👨‍💻 All my projects are available on my [Portfolio](https://portfolio-2-0-wheat.vercel.app/)
-- 💬 Ask me about **React**, **Frontend Tech**, or **Web APIs**
-- 📫 Reach me at **mainakmaitra33@gmail.com**
+- 🔭 Working on: [NoteBook Project](https://github.com/MkM630/Note_book)
+- 🌱 Learning: `Next.js` | `TypeScript` | `Web Architecture`
+- 🧑‍💻 Portfolio: [Visit Here](https://portfolio-2-0-wheat.vercel.app/)
+- 🗣️ Talk to me about: **React**, **UI/UX**, **APIs**, and **Modern JS**
+- 📬 Email: `mainakmaitra33@gmail.com`
 - 📄 [Resume](https://drive.google.com/file/d/1ibcHpYQ27bMzhJQ0tvzFLolozQbSot0F/view?usp=sharing)
-- ⚡ Fun fact: I love playing **Chess** (rating ~900)
+- ♟️ Fun Fact: I play Chess (Rating ~900) and love strategy games
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mainakmaitra/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.leetcode.com/mm3076" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="mailto:mainakmaitra33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### ⚙️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+> Languages, frameworks, and tools I actively work with:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,html,css,c,cpp,java,python,linux,git,figma,postman" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkm630&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mkm630&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkm630&layout=compact&theme=radical" height="180"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkm630&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkm630&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkm630&theme=radical" />
 </p>
 
 ---
 
-### 🎯 Motto
+### 🏆 GitHub Trophies
 
-> *"Consistency always beats talent."*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mkm630&theme=tokyonight&row=2&column=3" />
+</p>
+
+---
+
+### ✨ Quote I Live By
+
+> *“The only way to do great work is to love what you do.” – Steve Jobs*
+
+---
 
