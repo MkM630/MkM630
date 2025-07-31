@@ -1,9 +1,32 @@
-<h1 align="center">
-  Hey there! 👋 I'm <span style="color:#0a66c2"><b>Mainak Maitra</b></span>
-</h1>
-<h3 align="center">
-  💻 <b>Frontend Developer</b>&nbsp; | &nbsp;🛠️ <b>Backend Enthusiast</b>&nbsp; | &nbsp;🎯 <b>Lifelong Learner</b>
-</h3>
+<!-- Animated Neon SVG Header -->
+<div align="center">
+  <svg width="550" height="70">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+      font-family="'Segoe UI', Arial, sans-serif"
+      font-size="36"
+      fill="none"
+      stroke="#0a66c2"
+      stroke-width="2"
+      stroke-linejoin="round"
+      style="filter: drop-shadow(0 0 10px #0a66c2);">
+      Hey there! 👋 I'm Mainak Maitra
+    </text>
+    <style>
+      @keyframes neon {
+        0% { stroke: #0a66c2; filter: drop-shadow(0 0 10px #0a66c2);}
+        100% { stroke: #2ec4b6; filter: drop-shadow(0 0 20px #2ec4b6);}
+      }
+      text {
+        animation: neon 1.6s linear infinite alternate;
+      }
+    </style>
+  </svg>
+</div>
+
+<!-- Animated Typing Subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0A66C2&center=true&vCenter=true&width=460&lines=💻+Frontend+Developer;🛠️+Backend+Enthusiast;🎯+Lifelong+Learner" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mkm630&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
